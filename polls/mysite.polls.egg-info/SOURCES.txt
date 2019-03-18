@@ -1,0 +1,5 @@
+setup.py
+mysite.polls.egg-info/PKG-INFO
+mysite.polls.egg-info/SOURCES.txt
+mysite.polls.egg-info/dependency_links.txt
+mysite.polls.egg-info/top_level.txt
